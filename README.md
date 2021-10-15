@@ -10,7 +10,7 @@ This construction uses an OBO Bettermann T60 junction box, which looks nicer, an
 
 A DHT22 temperature and humidity sensor is required for this construction. It is placed at the wall of the inlet air tunnel, so it is protected from rain, but still exposed to the outside air. There is a space for an optional BMP180 air pressure sensor.
 
-Also see the [project page at Thingiverse](https://www.thingiverse.com/thing:2775946) for more photos and downloadable STL files.
+Also see the [project page at the PrusaPrinters community](https://www.prusaprinters.org/prints/79784-particulates-sensor-case) for more photos and downloadable STL files.
 
 ## Usage
 

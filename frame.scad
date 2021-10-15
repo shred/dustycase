@@ -7,8 +7,8 @@
  * Source code:
  *   https://github.com/shred/dustycase
  *
- * Project page on Thingiverse:
- *   https://www.thingiverse.com/thing:2775946
+ * Project page at PrusaPrinters:
+ *   https://www.prusaprinters.org/prints/79784-particulates-sensor-case
  *
  * Licensed under Creative Commons BY-NC-SA:
  *   https://creativecommons.org/licenses/by-nc-sa/3.0/
