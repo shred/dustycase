@@ -5,7 +5,7 @@
  * (C) 2018 Richard "Shred" Körber
  *
  * Source code:
- *   https://github.com/shred/dustycase
+ *   https://codeberg.org/shred/dustycase
  *
  * Project page at PrusaPrinters:
  *   https://www.prusaprinters.org/prints/79784-particulates-sensor-case
